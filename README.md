@@ -4,9 +4,23 @@
 
 ## 📊 GitHub Stats & Trophies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phoneee689&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=86400" alt="phoneee689's GitHub Stats" width="49%" />
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=phoneee689&show_icons=true&theme=dark&hide_border=true&count_private=true"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoneee689&layout=compact&theme=radical&hide_border=true&langs_count=8"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
+
 
 ## 🛠️ Languages & Tools
 
