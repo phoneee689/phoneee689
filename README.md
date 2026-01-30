@@ -24,23 +24,20 @@
 
 ## 🛠️ Languages & Tools
 
-> ## Languages
-
+### Languages and Frameworks
 <p align="center">
-  <img src="https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/ABAP%20RAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP RAP for SAP HANA" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/ABAP%20Cloud-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP Cloud" />
+  <img src="https://img.shields.io/badge/SAP%20CDS-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="CDS" />
+  <img src="https://img.shields.io/badge/ABAP%20RAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="ABAP RAP" />
 </p>
 
-> ## Tools
-
+### Tools and Platforms
 <p align="center">
-  <img src="https://img.shields.io/badge/SAP%20GUI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP GUI" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/Eclipse%20ADT-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse ADT" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Fiori" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/SAP%20HANA%20On--Premise-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP HANA On-Premise" style="margin: 4px;" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> 
-  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/Eclipse%20ADT-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse ADT" />
+  <img src="https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP BTP" />
+  <img src="https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP Fiori" />
+  <img src="https://img.shields.io/badge/SAP%20GUI-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" alt="SAP GUI" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
 </p>
 
 ## 🐍 My Contributions
